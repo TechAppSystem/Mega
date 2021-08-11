@@ -19,7 +19,7 @@ ZEET RAPID DEPLOYMENT AVAILABLE 👇
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
-##### STAR & FORK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM]( AQUI URL).
+##### STAR & FORK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [TELEGRAM](https://t.me/TechAppSystem).
 
 
 ### Project completed but still under development
