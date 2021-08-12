@@ -7,8 +7,8 @@ RUN curl -O 'https://github.com/TechAppSystem/Rclone/blob/main/rclone-current-li
     unzip rclone-current-linux-amd64.zip && \
     cp /rclone-*-linux-amd64/rclone /usr/bin/ && \
     chown root:root /usr/bin/rclone && \
-    chmod 755 /usr/bin/rclone
-COPY donate-techappsystem.txt /donate-techappsystem.txt
+    chmod 755 /usr/bin/Rclone
+    
 COPY entrypoint.sh /entrypoint.sh 
 RUN chmod +x /entrypoint.sh
 CMD /entrypoint.sh
