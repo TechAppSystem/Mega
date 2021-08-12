@@ -4,7 +4,7 @@ Mega.nz-Rclone-Index-Heroku
 
 ![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
 
-#### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
+
 ###### heroku-rclone-serve V3
 
 Serves mega.nz to http via heroku web.
