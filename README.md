@@ -64,7 +64,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 -------------------
 ##### MEGA.NZ only
 
-### Create an [issue](https://githubusercontent.com/TechAppSystem/Mega-BETA/issues/new) if you have one
+### Create an [issue](https://githubusercontent.com/TechAppSystem/Mega/issues/new) if you have one
 
 ##### Please Try to re-deploy if any error occurred, this is common because some of the files are hosted on my free server at cloudflare
 
