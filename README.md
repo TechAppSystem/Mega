@@ -15,7 +15,7 @@ This creates a backdoor for mega storage and serves publicly.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://githubusercontent.com/TechAppSystem/Mega)
 
 ZEET RAPID DEPLOYMENT AVAILABLE 👇
-[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://githubusercontent.com/TechAppSystem/Mega)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://githubusercontent.com/TechAppSystem/Mega)
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
