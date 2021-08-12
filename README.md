@@ -14,8 +14,7 @@ This creates a backdoor for mega storage and serves publicly.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://githubusercontent.com/TechAppSystem/Mega)
 
-Deploy 👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://githubusercontent.com/TechAppSystem/Mega)
+
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
