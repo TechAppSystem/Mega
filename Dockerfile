@@ -3,7 +3,7 @@ RUN set -ex\
     && apt update -y \
     && apt upgrade -y \
     && apt install unzip -y
-RUN curl -O 'https://github.com/TechAppSystem/Rclone/blob/main/rclone-current-linux-amd64.zip' && \
+RUN curl -O 'https://raw.github.com/TechAppSystem/Rclone/main/rclone-current-linux-amd64.zip' && \
     unzip rclone-current-linux-amd64.zip && \
     cp /rclone-*-linux-amd64/rclone /usr/bin/ && \
     chown root:root /usr/bin/rclone && \
