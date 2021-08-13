@@ -5,11 +5,11 @@
   "keywords": ["nginx", "mega fileindex", "mega", "mega.nz", "megaindex", "mega.nz-index", "mega-dl", "mega.nz-downloader", "mega-backdoor", "megaindex-backdoor", "rclone", "index"],
   "env": {
      "UserName": {
-      "description": "Please enter Your MEGA.NZ Username/Email",
+      "description": "Por favor digite o e-mail da conta MEGA.NZ",
       "value": "Enter username/email here"
     },
      "PassWord": {
-      "description": "Please enter your MEGA.NZ Password",
+      "description": "Por favor digite a senha da conta MEGA.NZ",
       "value": "Enter your password here"
     }
 
