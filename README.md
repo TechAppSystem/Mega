@@ -2,7 +2,7 @@
 ---------------------
 Mega.nz-Rclone-Index-Heroku
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/megaandindex.PNG)
 
 #### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 ###### heroku-rclone-serve V3
@@ -10,7 +10,7 @@ Mega.nz-Rclone-Index-Heroku
 Serves mega.nz to http via heroku web.
 This creates a backdoor for mega storage and serves publicly.
 
-[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
+[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://githubusercontent.com/TechAppSystem/Mega) without froking or github account.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
 
