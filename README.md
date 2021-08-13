@@ -1,6 +1,6 @@
-# HEROKU MEGA INDEX
+# MEGA
 ---------------------
-Mega.nz-Rclone-Index-Heroku
+Mega.nz
 
 ![Demo](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/megaandindex.PNG)
 
@@ -16,7 +16,7 @@ This creates a backdoor for mega storage and serves publicly.
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
-##### STAR & FORK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [INSTAGRAM](https://www.instagram.com/t_h_e_anas).
+##### STAR & FORK MY REPO IF YOU LIKE IT OR FOLLOW ME ON [TELEGRAM](https://t.me/TechAppSystem).
 
 
 ### Project completed but still under development
