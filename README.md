@@ -12,8 +12,7 @@ This creates a backdoor for mega storage and serves publicly.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechAppSystem/Mega)
 
-ZEET RAPID DEPLOYMENT AVAILABLE 👇
-[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/TechAppSystem/Mega)
+
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
 
@@ -22,7 +21,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Project completed but still under development
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/deployedV.PNG)
+![Demo](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/deployedV.PNG)
 
 ------------
 
@@ -32,7 +31,7 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 
 ### Change Config Vars in settings of deployed application change email and password for swiching accounts
 
-# ![Demo-Deploying](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/newdeploying.PNG)
+# ![Demo-Deploying](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/newdeploying.PNG)
 
 ------------
 # Features
