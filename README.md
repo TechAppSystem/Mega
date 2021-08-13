@@ -52,21 +52,21 @@ Use your Real mega Username/Email and real Password (without encryption) normall
 ##### Please use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for best Downloading speed
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
-[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechAppSystem/Mega)
+[![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/TechAppSystem/Mega)
 
 ---
 # Supported Storage
 -------------------
 ##### MEGA.NZ only
 
-### Create an [issue](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku-BETA/issues/new) if you have one
+### Create an [issue](https://github.com/TechAppSystem/Mega-BETA/issues/new) if you have one
 
 ##### Please Try to re-deploy if any error occurred, this is common because some of the files are hosted on my free server at cloudflare
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/samplemega.PNG)
+![Demo](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/samplemega.PNG)
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/samplemega.PNG)
 
 ### Tutorial of will be published soon
 
