@@ -4,8 +4,6 @@ Mega.nz-Rclone-Index-Heroku
 
 ![Demo](https://raw.githubusercontent.com/TechAppSystem/Mega/main/.example_images/megaandindex.PNG)
 
-#### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
-###### heroku-rclone-serve V3
 
 Serves mega.nz to http via heroku web.
 This creates a backdoor for mega storage and serves publicly.
